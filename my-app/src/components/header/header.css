@@ -1,0 +1,29 @@
+#header {
+    color: #fff;
+    background: url("/Users/lenamorgenstern/jamfam-transfermodul/my-app/public/header2.png");
+    padding-top: 12%;
+    padding-bottom: 12%;
+    padding-left: 12%;
+    padding-right: 12%;
+    margin: 0em;
+    background-size: cover;
+}
+
+.claim {
+    font-size: 5rem;
+    font-weight: 5950;
+    line-height: 1.2;
+}
+
+#inputheader {
+    text-align: center;
+}
+
+#logo {
+    width: 25rem;
+}
+
+#arrows {
+    margin-top: 3%;
+    width: 20rem;
+}
